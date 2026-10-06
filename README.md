@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=720&height=60&lines=Hi%2C+I%27m+Nusrat+Jahan+Kaifa;Junior+Web+Developer;I+build+responsive+websites+and+REST+APIs;Python%2C+FastAPI%2C+Tailwind+CSS" alt="Hi, I'm Nusrat Jahan Kaifa - Junior Web Developer" />
 
-<h3>Diploma in CSE Engineering | Chattogram, Bangladesh</h3>
+<h3>Diploma in CSE Student | Chattogram, Bangladesh</h3>
 
 <a href="https://nusratjahankaifa.github.io/My-Portfollio/">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/nusrat-jahan-kaifa-4a10723b1/">LinkedIn</a> ·
@@ -14,13 +14,14 @@
 
 ## 🎬 Introduction
 
+<!--
+  The animation below plays automatically and loops forever.
+  Upload your Canva animation as "intro.gif" to this repository (Add file > Upload files).
+-->
 
-
-https://github.com/user-attachments/assets/2dafd9df-72b1-426b-9ba7-7a26deb82bac
-
-
-
-A short animated introduction about me and my projects.
+<p align="center">
+  <img src="intro.gif" width="720" alt="Animated introduction of Nusrat Jahan Kaifa" />
+</p>
 
 ## 🧑‍💻 About Me
 
